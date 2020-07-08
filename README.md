@@ -1,4 +1,4 @@
-# Restricted-Boltzmann-Machines-on-MNIST-dataset
+# Restricted Boltzmann Machines on MNIST dataset
 
 The notebook in this repository has the following nets worked upon the MNIST dataset, one each time:\
 Hopfield Net\
