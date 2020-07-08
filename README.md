@@ -1,14 +1,14 @@
 # Restricted-Boltzmann-Machines-on-MNIST-dataset
 
-The notebook in this repository has the following nets worked upon the MNIST dataset, one each time:
-Hopfield Net
-Bernoulli RBM
-Bernoulli RBM with L1-regularization
+The notebook in this repository has the following nets worked upon the MNIST dataset, one each time:\
+Hopfield Net\
+Bernoulli RBM\
+Bernoulli RBM with L1-regularization\
 Deep-Boltzmann Machine with L1 penalty for each Layer
 
 Also, I have plotted few of the Fantasy Particles and Reconstructions made by each model.
 
-A Brief Introduction to RBMs:
+## A Brief Introduction to RBMs:
 
 Restricted Boltzmann Machine (RBM) is a generative stochastic artificial neural network that can learn a probability distribution over its set of inputs.
 
